@@ -8,6 +8,7 @@ This repository provides various Python scripts and userscripts to make your Sim
 ### LetterboxdtoSimkl
 - **exportLetterboxdHistory**: Export your watched movies from Letterboxd into a .csv file.
 - **importLetterboxdtoSimkl**: Import watched movies from Letterboxd into Simkl. **First use exportLetterboxdHistory to get your watched movies from Letterboxd**
+- **exportLetterboxdPopularList**: Export a Letterboxd popular list containing TMDB Urls to make it ready to import into a .csv list. You just have to manually paste the TMDB urls into a list.
 
 ### Userscripts
 - **LetterboxdReviews**: Imports the most 20 Popular Letterboxd reviews for each movie on Simkl.com. You have to reload a page to see the reviews! (Use it with Tampermonkey)
